@@ -1,2 +1,59 @@
 # laptop-price-analysis-dashboard
 Interactive Power BI dashboard analyzing laptop prices by brand, RAM, processor and screen resolution.
+# Laptop Price Analysis Dashboard | Power BI
+
+## Project Overview
+
+An interactive Power BI dashboard designed to explore laptop pricing patterns across brands, RAM configurations, processors, and screen resolutions.
+
+## Objectives
+
+* Compare laptop prices across brands.
+* Examine the relationship between RAM and price.
+* Analyze pricing across processor categories.
+* Explore price differences by screen resolution.
+* Present findings through interactive visualizations.
+
+## Tools Used
+
+* Microsoft Power BI
+* Power Query, where used
+* DAX, where used
+* CSV dataset
+
+## Dashboard Features
+
+* Brand-wise price analysis
+* RAM-based comparisons
+* Processor-based price analysis
+* Screen resolution and price visualization
+* Interactive filtering, where implemented
+
+## Data Analysis Workflow
+
+1. Import the laptop dataset.
+2. Inspect and clean the data.
+3. Prepare columns and data types.
+4. Build visualizations and measures.
+5. Arrange dashboard visuals.
+6. Analyze pricing patterns.
+
+## Files
+
+* `dashboard/` — Power BI `.pbix` file
+* `data/` — source dataset, if shareable
+* `images/` — dashboard screenshots
+
+## How to View
+
+1. Open the dashboard screenshot in `images/` for a quick preview.
+2. Download the `.pbix` file.
+3. Open it using Microsoft Power BI Desktop.
+
+## Key Findings
+
+Add the actual findings observed in the completed dashboard. Avoid reporting conclusions that have not been verified.
+
+## Skills Demonstrated
+
+Power BI, data preparation, data visualization, dashboard development, and analytical thinking.
