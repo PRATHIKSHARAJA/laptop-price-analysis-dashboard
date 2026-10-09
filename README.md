@@ -29,6 +29,10 @@ An interactive Power BI dashboard designed to explore laptop pricing patterns ac
 * Screen resolution and price visualization
 * Interactive filtering, where implemented
 
+## Images
+* 
+* 
+  
 ## Data Analysis Workflow
 
 1. Import the laptop dataset.
