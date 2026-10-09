@@ -30,7 +30,7 @@ An interactive Power BI dashboard designed to explore laptop pricing patterns ac
 * Interactive filtering, where implemented
 
 ## Images
-* 
+* [laptop-price-overview.png.png](laptop-price-overview.png.png)
 * 
   
 ## Data Analysis Workflow
