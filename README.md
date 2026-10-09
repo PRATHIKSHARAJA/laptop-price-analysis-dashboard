@@ -38,18 +38,6 @@ An interactive Power BI dashboard designed to explore laptop pricing patterns ac
 5. Arrange dashboard visuals.
 6. Analyze pricing patterns.
 
-## Files
-
-* `dashboard/` — Power BI `.pbix` file
-* `data/` — source dataset, if shareable
-* `images/` — dashboard screenshots
-
-## How to View
-
-1. Open the dashboard screenshot in `images/` for a quick preview.
-2. Download the `.pbix` file.
-3. Open it using Microsoft Power BI Desktop.
-
 ## Key Findings
 
 Add the actual findings observed in the completed dashboard. Avoid reporting conclusions that have not been verified.
